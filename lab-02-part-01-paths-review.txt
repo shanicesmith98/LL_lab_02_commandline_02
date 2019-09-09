@@ -80,7 +80,7 @@ popd (goes back to last saved directory)
 ----------
 ls -al Desktop
 ==========
-*15. 
+15. 
 a. Create the following directory structure on...
 b. A folder called my-stuff should be on your desktop.  There should be two additional directories within it: archived, current.
 c. Determine the name of your computer.
