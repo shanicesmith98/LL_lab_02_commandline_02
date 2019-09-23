@@ -100,7 +100,8 @@ Copy and paste the output below, but not the whole thing!  Just copy up to the p
 
 Write the command you used below.  Also copy and paste the output below.
 ----------
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+curl -o google.html www.google.com
+% Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
 100 11726    0 11726    0     0  84971      0 --:--:-- --:--:-- --:--:-- 85591
 
