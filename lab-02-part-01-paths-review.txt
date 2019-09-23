@@ -29,6 +29,7 @@ cd Desktop
 4. What's the absolute path to your home directory?
 ----------
 /
+/Users/student
 
 ==========
 5. What's the absolute path to your Desktop directory?
