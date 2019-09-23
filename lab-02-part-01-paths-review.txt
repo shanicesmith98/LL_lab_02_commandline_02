@@ -45,6 +45,7 @@ cd Desktop
 7. If you're in your home directory, what's the relative path to your Desktop directory?
 ----------
 cd student/Desktop
+cd Desktop/
 
 ==========
 8. If you're in your home directory, how would you create a new directory on your desktop called stuff without changing your directory?  Write your command below.
